@@ -1,0 +1,1 @@
+code from http://blog.matthew.org.pl/2010/04/17/kurs-qt-czesc-8-opengl/ prepared to run with Qt (works with  Qt 5.2.0 MSVC2010 32bit OpenGL)

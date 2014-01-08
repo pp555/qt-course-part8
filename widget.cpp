@@ -1,7 +1,10 @@
 #include "widget.hpp"
 
-#include <QWidget>
+#include <qgl.h>
+#include <gl/GLU.h>
 #include <QGLWidget>
+
+#include <QWidget>
 #include <QFont>
 #include <QKeyEvent>
 
